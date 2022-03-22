@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">Frontend Developer @ Applifting 🚀 | Developing modern web applications w/ React ⚛️</h3>
 
-<p align="left"> 
+<p align="left">
   <a href="https://twitter.com/dominikpatera" target="blank"><img src="https://img.shields.io/twitter/follow/dominikpatera?logo=twitter&style=for-the-badge" alt="dominikpatera" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominikpatera" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominikpatera" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9980042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9980042" height="30" width="40" /></a>
-<a href="https://instagram.com/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominikpatera" height="30" width="40" /></a>
+  <a href="https://twitter.com/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominikpatera" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominikpatera" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/9980042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9980042" height="30" width="40" /></a>
+  <a href="https://instagram.com/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominikpatera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +19,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikpatera&show_icons=true&locale=en&theme=dark" alt="dominikpatera" /></p>
 
 <p align="left">
-  <a href="https://github.com/sponsors/dominikpatera?o=esb" target="blank"><img src="support-me.png" alt="Support me" width="160"/></a>
+  <a href="https://github.com/sponsors/dominikpatera?o=esb" target="blank"><img src="assets/icons/support-me.png" alt="Support me" width="160"/></a>
 </p>
