@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">Frontend Developer @ Applifting 🚀 | Developing modern web applications w/ React ⚛️</h3>
 
-<p align="left"> <a href="https://twitter.com/dominikpatera" target="blank"><img src="https://img.shields.io/twitter/follow/dominikpatera?logo=twitter&style=for-the-badge" alt="dominikpatera" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dominikpatera" target="blank"><img src="https://img.shields.io/twitter/follow/dominikpatera?logo=twitter&style=for-the-badge" alt="dominikpatera" /></a><a href="https://github.com/dominikpatera" target="blank"><img src="icons/support-me.png" alt="Support me"/></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
