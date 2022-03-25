@@ -2,7 +2,7 @@
 <h4 align="center">Frontend Developer with Full-stack ambition 🧑‍🚀</h4>
 <div align="center">
   <p>
-    I'm a Frontend Developer focused on modern web applications built with React. ⚛️ Right now I'm honored to be part of <a href="https://applifting.io/" alt="Applifting">Applifting</a>. 🚀
+    I'm a Frontend Developer focused on modern web applications built w/ React. ⚛️ Right now I'm honored to be part of <a href="https://applifting.io/" alt="Applifting">Applifting</a>. 🚀
   </p>
   
   <p>
