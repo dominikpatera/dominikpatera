@@ -1,23 +1,83 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">Frontend Developer @ Applifting 🚀 | Developing modern web applications w/ React ⚛️</h3>
+<h4 align="center">Frontend Developer with Full-stack ambition 🧑‍🚀</h4>
+<div align="center">
+  <p>
+    I'm a Frontend Developer focused on modern web applications built with React. ⚛️ Right now I'm honored to be part of <a href="https://applifting.io/" alt="Applifting">Applifting</a>. 🚀
+  </p>
+  
+  <p>
+    Understanding and keeping up with new technologies is key for me and I always try to not fall behind. 👊
+  </p>
+  
+  <p>
+    You can contact me for possible collaboration or if you want me to contribute to your project! 🤝
+  </p>
+  
+  <p>
+    📫 The best way to contact me is via e-mail — <a href = "mailto:dominik.patera@gmail.com?subject=Collab 🤝">dominik.patera@gmail.com</a>
+  </p>
+</div>
 
-<p align="left">
-  <a href="https://twitter.com/dominikpatera" target="blank"><img src="https://img.shields.io/twitter/follow/dominikpatera?logo=twitter&style=for-the-badge" alt="dominikpatera" /></a>
-</p>
+<h2 align="center">Tech Stack 🚀</h2>
+<div align="center">
+  <a href="https://www.javascript.com" alt="JavaScript">
+    <img src="https://user-images.githubusercontent.com/36477797/160205308-c4a66b43-6411-4e1d-8cd9-42658a6f2c0f.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" alt="TypeScript">
+    <img src="https://user-images.githubusercontent.com/36477797/160205546-43ecd8b4-f9cb-4a53-9e70-9571a8f0fde4.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org" alt="React">
+    <img src="https://user-images.githubusercontent.com/36477797/160205720-6441a4b4-7cb2-4c5f-92b8-f78e7531edea.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org" alt="Next">
+    <img src="https://user-images.githubusercontent.com/36477797/160204966-b5662065-8159-48bc-9bf8-7180f8633808.svg" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sass-lang.com" alt="Sass">
+    <img src="https://user-images.githubusercontent.com/36477797/160206026-586bf15f-6a0a-4daa-ad09-f64ddd2785d2.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://graphql.org" alt="GraphQL">
+    <img src="https://user-images.githubusercontent.com/36477797/160206295-30bda0df-8377-41b0-bf34-072eb1d82f96.png" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/" alt="Node">
+    <img src="https://user-images.githubusercontent.com/36477797/160206664-a0e6ca41-7e31-4cf7-b26f-e2f5c890469b.png" height="50"/>
+  </a>
+  <div>... and much <a href="https://github.com/stars/dominikpatera/lists/my-stack" alt="My Tech Stack" target="_blank">more</a>! </div>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominikpatera" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominikpatera" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/9980042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9980042" height="30" width="40" /></a>
-  <a href="https://instagram.com/dominikpatera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominikpatera" height="30" width="40" /></a>
-</p>
+<h2 align="center">Stats 🤩</h2>
+<div align="center">
+  <a href="https://github.com/dominikpatera" alt="GitHub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikpatera&show_icons=true&locale=en&theme=github_dark" alt="dominikpatera" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikpatera&show_icons=true&locale=en&theme=dark" alt="dominikpatera" /></p>
-
-<p align="left">
+<h2 align="center">Do you love my work? 💖</h2>
+<div align="center">
   <a href="https://github.com/sponsors/dominikpatera?o=esb" target="blank"><img src="assets/icons/support-me.png" alt="Support me" width="160"/></a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/dominikpatera" alt="GitHub">
+    <img src="https://user-images.githubusercontent.com/36477797/160207405-913da6aa-9203-44f9-be21-6ed8d3be1116.png" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dominikpatera/" alt="LinkedIn">
+    <img src="https://user-images.githubusercontent.com/36477797/160207468-a274a058-9fd2-46b3-9238-081efa749827.png" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/dominikpatera" alt="Twitter">
+    <img src="https://user-images.githubusercontent.com/36477797/160207499-fe6b744f-46f1-4426-b91e-4fe1e105b5b4.png" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/dominikpatera" alt="Instagram">
+    <img src="https://user-images.githubusercontent.com/36477797/160207544-3559b30f-0d26-4dfd-9936-4bf2f5325acf.png" height="30"/>
+  </a>
+</div>
