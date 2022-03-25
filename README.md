@@ -59,7 +59,7 @@
 
 <h2 align="center">Do you love my work? 💖</h2>
 <div align="center">
-  <a href="https://github.com/sponsors/dominikpatera?o=esb" target="blank"><img src="assets/icons/support-me.png" alt="Support me" width="160"/></a>
+  <a href="https://github.com/sponsors/dominikpatera?o=esb" target="blank"><img width="160" alt="support-me" src="https://user-images.githubusercontent.com/36477797/160209481-64d0c4b5-5e5f-4089-8e3b-28e271112ebb.png"></a>
 </div>
 
 <br/>
