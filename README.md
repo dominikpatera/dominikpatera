@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
+<h1 align="center">👋 Konnichiwa, I'm Dominik</h1>
 <h4 align="center">Frontend Developer with Full-stack ambition 🧑‍🚀</h4>
 <div align="center">
   <p>
@@ -15,6 +15,10 @@
   
   <p>
     📫 The best way to contact me is via e-mail — <a href = "mailto:dominik.patera@gmail.com?subject=Collab 🤝">dominik.patera@gmail.com</a>
+  </p>
+  
+  <p>
+    痛みなくして得るものなし
   </p>
 </div>
 
