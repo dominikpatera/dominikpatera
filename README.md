@@ -51,7 +51,7 @@
   <a href="https://nodejs.org/" alt="Node">
     <img src="https://user-images.githubusercontent.com/36477797/160206664-a0e6ca41-7e31-4cf7-b26f-e2f5c890469b.png" height="50"/>
   </a>
-  <div>... and much <a href="https://github.com/stars/dominikpatera/lists/my-stack" alt="My Tech Stack" target="_blank">more</a>! </div>
+  <div>... and much <a href="https://github.com/stars/dominikpatera/lists/tech-stack" alt="My Tech Stack" target="_blank">more</a>! </div>
 </div>
 
 <h2 align="center">Stats 🤩</h2>
