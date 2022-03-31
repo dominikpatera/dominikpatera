@@ -1,5 +1,5 @@
 <h1 align="center">👋 Konnichiwa, I'm Dominik</h1>
-<h4 align="center">Frontend Developer with Full-stack ambition 🧑‍🚀</h4>
+<h4 align="center">Frontend Developer 🧑‍🚀</h4>
 <div align="center">
   <p>
     I'm a Frontend Developer focused on modern web applications built w/ React. ⚛️ I'm honored to be part of <a href="https://applifting.io/" alt="Applifting">Applifting</a>. 🚀
